@@ -14,7 +14,7 @@ export default defineConfig({
 
   /* markdown 配置 */
   markdown: {
-    lineNumbers: true
+    // lineNumbers: true
   },
 
   /* 主题配置 */
@@ -28,7 +28,7 @@ export default defineConfig({
     /* 右侧大纲配置 */
     outline: {
       level: 'deep',
-      label: '本页目录'
+      label: '目录'
     },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/hhhanzzz' }],

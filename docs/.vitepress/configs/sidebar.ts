@@ -7,7 +7,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       collapsed: false,
       items: [
         { text: 'HTML', link: '/fe/html/' },
-        { text: 'CSS', link: '/fe/css/' }
+        { text: 'CSS', link: '/fe/css/' },
+        { text: 'Mobile', link: '/fe/css/mobile' }
       ]
     },
     // {
