@@ -1,0 +1,24 @@
+{
+  "name": "hhhan-notes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "docs:deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mdit-vue/shared": "^0.12.0",
+    "@types/node": "^20.5.0",
+    "sass": "^1.65.1",
+    "vitepress": "1.0.0-rc.4",
+    "vue": "^3.3.4"
+  }
+}
