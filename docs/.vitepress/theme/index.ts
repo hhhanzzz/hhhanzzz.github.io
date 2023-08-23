@@ -6,6 +6,7 @@ import MNavVisitor from './components/MNavVisitor.vue'
 // import MDocFooter from './components/MDocFooter.vue'
 // import MAsideSponsors from './components/MAsideSponsors.vue'
 import MNavLinks from './components/MNavLinks.vue'
+import BullshitGenerator from './components/BullshitGenerator.vue'
 
 import './styles/index.scss'
 
@@ -58,6 +59,7 @@ export default {
   },
   enhanceApp({ app, router }: EnhanceAppContext) {
     app.component('MNavLinks', MNavLinks)
+    app.component('BullshitGenerator', BullshitGenerator)
 
     app.provide('DEV', process.env.NODE_ENV === 'development')
 

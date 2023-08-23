@@ -13,17 +13,17 @@ hero:
   actions:
     - theme: brand
       text: 让老肥更辣鸡
-      link: /others/laofei/
+      link: /others/bullshit/
 features:
   - icon: 📖
     title: 辣鸡老肥
     details: 老肥真是辣鸡...
-    link: /others/laofei/
+    link: /others/bullshit/
     linkText: 辣鸡老肥
   - icon: 💡
     title: 爆蛋公羊
     details: 持续更新...
-    link: /others/laofei/
+    link: /others/bullshit/
     linkText: 爆蛋公羊
 
 ---

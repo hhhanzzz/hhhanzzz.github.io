@@ -11,5 +11,8 @@ export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/favicon.ico' }],
   ['link', { rel: 'apple-touch-icon', href: '/favicon.ico' }],
   ['link', { rel: 'mask-icon', href: '/favicon.ico', color: '#3eaf7c' }],
+  ['script', { src: 'https://hm.baidu.com/hm.js?058d1e446dd338b69f2e385ba2f930f2' }],
+  ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-BM8WXEWW3P' }],
+  
 ]
 

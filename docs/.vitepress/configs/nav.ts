@@ -15,6 +15,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '其他',
     items: [
+      { text: '狗屁不通文章生成器', link: '/others/bullshit/' },
     ],
     activeMatch: '^/others'
   },

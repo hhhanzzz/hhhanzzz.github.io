@@ -117,7 +117,7 @@ background: background-color background-image background-repeat background-attac
 
 **行高的继承、权重的叠加**
 ::: tip CSS 选择器权重排序
-`!important` > 行内样式 > id > 类、伪类 > 标签 > 继承 / \*
+`!important` > 行内样式 > id > 类、伪类、属性 > 标签 > 继承 / \*
 :::
 
 ## CSS 盒模型

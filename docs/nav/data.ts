@@ -60,13 +60,13 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://chengpeiquan.com/favicon.ico',
         title: 'Vue3 入门指南与实战案例',
-        // desc: '',
+        desc: '一个关于 Vue 3 + TypeScript 的起步学习教程',
         link: 'http://vue3.chengpeiquan.com/'
       },
       {
-        icon: '',
+        icon: 'https://avatars.githubusercontent.com/u/13389461?v=4',
         title: '面试每日一题',
-        // desc: '',
+        desc: '每天五分钟，半年大厂中',
         link: 'https://q.shanyue.tech/roadmap'
       },
     ]
